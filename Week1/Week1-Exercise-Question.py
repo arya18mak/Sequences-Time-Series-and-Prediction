@@ -1,4 +1,4 @@
-mport tensorflow as tf
+import tensorflow as tf
 print(tf.__version__)
 
 import numpy as np
